@@ -1,13 +1,12 @@
-MISSÃO CURSOS ONLINE EAD — V6 PRO
+MISSÃO CURSOS ONLINE EAD — V7 FINAL
 
-Melhorias:
-- SEO individual nas 6 páginas (title, description e canonical)
-- melhor foco de conversão na página inicial
-- atalhos claros para Graduação/Pós e Profissionalizantes
-- CTA direto para atendimento no WhatsApp
-- aviso de transparência sobre instituições parceiras
-- redes sociais mantidas nas 6 páginas
-- melhorias de acessibilidade (foco visível)
-- layout responsivo mantido
+Acabamento final:
+- ícone do WhatsApp também no botão principal do menu
+- melhor equilíbrio visual do hero
+- refinamento dos diferenciais
+- ajustes específicos para tablet e celular
+- botões responsivos em telas pequenas
+- preserva SEO, redes sociais e estrutura multipágina da V6
 
-Substitua os arquivos da versão anterior no mesmo repositório GitHub Pages.
+Publicação:
+Extraia o ZIP e envie todo o conteúdo para o mesmo repositório GitHub Pages.

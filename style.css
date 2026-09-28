@@ -61,3 +61,38 @@
 .path-icon{font-size:30px}.partner-note{max-width:900px;margin:24px auto 0;text-align:center;font-size:14px;color:#555}
 a:focus-visible,button:focus-visible{outline:3px solid #f28c00;outline-offset:3px}
 @media(max-width:850px){.path-grid{grid-template-columns:1fr}.path-section{padding:46px 0}}
+
+/* V7 FINAL — acabamento visual e mobile */
+.nav-cta,.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px}
+.nav-cta .fa-whatsapp{font-size:20px}
+
+/* Refinamento dos diferenciais do hero */
+.hero-features{display:flex;gap:10px 14px;flex-wrap:wrap;margin-top:22px}
+.hero-features > *{background:#fff;border:1px solid #ececec;border-radius:999px;padding:8px 12px;font-size:14px;font-weight:700;box-shadow:0 4px 12px rgba(0,0,0,.035)}
+
+/* Melhor equilíbrio do bloco visual do hero */
+.hero-visual,.hero-card{max-width:560px}
+.hero-card{margin-left:auto}
+.hero-card img{max-width:100%;height:auto}
+
+/* Ajustes responsivos finais */
+@media(max-width:1050px){
+  .hero h1{font-size:clamp(42px,6vw,68px)}
+  .hero-grid{gap:34px}
+}
+@media(max-width:850px){
+  .hero-grid{grid-template-columns:1fr}
+  .hero-visual,.hero-card{max-width:620px;margin-left:auto;margin-right:auto}
+  .hero h1{text-align:left}
+  .hero-actions{display:flex;flex-wrap:wrap;gap:10px}
+}
+@media(max-width:560px){
+  .hero{padding-top:38px;padding-bottom:42px}
+  .hero h1{font-size:clamp(38px,12vw,52px);line-height:1.02}
+  .hero p{font-size:17px;line-height:1.55}
+  .hero-actions{display:grid;grid-template-columns:1fr}
+  .hero-actions .btn{width:100%}
+  .hero-features{display:grid;grid-template-columns:1fr;gap:8px}
+  .hero-features > *{border-radius:12px}
+  .hero-card{border-radius:20px}
+}
