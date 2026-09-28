@@ -96,3 +96,7 @@ a:focus-visible,button:focus-visible{outline:3px solid #f28c00;outline-offset:3p
   .hero-features > *{border-radius:12px}
   .hero-card{border-radius:20px}
 }
+
+/* V7.1 — aviso de transparência preservado sem duplicar opções de curso */
+.transparency-section{padding:22px 0 34px;background:#f7f8fa}
+.transparency-section .partner-note{margin:0 auto;max-width:900px}

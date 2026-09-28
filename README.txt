@@ -1,12 +1,9 @@
-MISSÃO CURSOS ONLINE EAD — V7 FINAL
+MISSÃO CURSOS ONLINE EAD — V7.1 DEFINITIVA
 
-Acabamento final:
-- ícone do WhatsApp também no botão principal do menu
-- melhor equilíbrio visual do hero
-- refinamento dos diferenciais
-- ajustes específicos para tablet e celular
-- botões responsivos em telas pequenas
-- preserva SEO, redes sociais e estrutura multipágina da V6
+Ajuste final:
+- removida da página inicial a seção redundante “Escolha seu caminho”
+- mantida a seção principal de modalidades
+- preservado o aviso de transparência sobre instituições parceiras
+- restante da V7 mantido sem alterações
 
-Publicação:
-Extraia o ZIP e envie todo o conteúdo para o mesmo repositório GitHub Pages.
+Envie todo o conteúdo extraído para o mesmo repositório GitHub Pages.
