@@ -1,21 +1,13 @@
-MISSÃO CURSOS ONLINE EAD — V5 REDES SOCIAIS
+MISSÃO CURSOS ONLINE EAD — V6 PRO
 
-Atualização aplicada às 6 páginas:
-- WhatsApp: nome + ícone
-- Instagram: nome + ícone
-- Facebook: nome + ícone
-- Google: nome + ícone
-- Links com abertura segura em nova aba
-- Cores de marca, espaçamento, estados de hover e adaptação mobile
-- Botão flutuante do WhatsApp com ícone
-- Ícones carregados pela biblioteca Font Awesome Brands via CDN
+Melhorias:
+- SEO individual nas 6 páginas (title, description e canonical)
+- melhor foco de conversão na página inicial
+- atalhos claros para Graduação/Pós e Profissionalizantes
+- CTA direto para atendimento no WhatsApp
+- aviso de transparência sobre instituições parceiras
+- redes sociais mantidas nas 6 páginas
+- melhorias de acessibilidade (foco visível)
+- layout responsivo mantido
 
-Páginas:
-index.html
-graduacao-pos.html
-cursos-profissionalizantes.html
-sobre.html
-duvidas.html
-contato.html
-
-Envie todos os arquivos desta versão ao mesmo repositório do GitHub Pages.
+Substitua os arquivos da versão anterior no mesmo repositório GitHub Pages.
