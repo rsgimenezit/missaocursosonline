@@ -1,15 +1,21 @@
-MISSÃO CURSOS ONLINE EAD — V3 MULTIPÁGINA
+MISSÃO CURSOS ONLINE EAD — V5 REDES SOCIAIS
+
+Atualização aplicada às 6 páginas:
+- WhatsApp: nome + ícone
+- Instagram: nome + ícone
+- Facebook: nome + ícone
+- Google: nome + ícone
+- Links com abertura segura em nova aba
+- Cores de marca, espaçamento, estados de hover e adaptação mobile
+- Botão flutuante do WhatsApp com ícone
+- Ícones carregados pela biblioteca Font Awesome Brands via CDN
 
 Páginas:
-- index.html
-- graduacao-pos.html
-- cursos-profissionalizantes.html
-- sobre.html
-- duvidas.html
-- contato.html
+index.html
+graduacao-pos.html
+cursos-profissionalizantes.html
+sobre.html
+duvidas.html
+contato.html
 
-Inclui menu responsivo, WhatsApp, Instagram, Facebook, Google, mapa, favicon, SEO básico e links oficiais fornecidos pelo cliente.
-
-Para publicar: envie/substitua TODOS os arquivos e a pasta assets no mesmo repositório GitHub Pages, mantendo index.html na raiz.
-
-V4: ícones visuais oficiais/reconhecíveis de WhatsApp, Instagram e Facebook adicionados ao site.
+Envie todos os arquivos desta versão ao mesmo repositório do GitHub Pages.

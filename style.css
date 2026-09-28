@@ -28,9 +28,22 @@
 .contact-map{display:block;width:100%;height:330px;border:0;border-radius:14px;margin-bottom:18px}
 @media(max-width:850px){.split{grid-template-columns:1fr}.page-hero{padding:55px 0}.page-hero p{font-size:18px}}
 
-.social-icon{width:21px;height:21px;display:inline-block;vertical-align:middle;flex:0 0 auto}
-.btn .social-icon{margin-right:8px}
-.whatsapp-float .social-icon{width:34px;height:34px}
-.footer-social a{display:inline-flex;align-items:center;gap:6px}
-.icon-label{display:inline-flex;align-items:center;gap:7px}
-.icon-label .social-icon{width:22px;height:22px}
+/* Redes sociais — padrão aplicado às 6 páginas */
+.social-links{display:flex;align-items:center;justify-content:flex-end;gap:10px;flex-wrap:wrap;margin-bottom:8px}
+.social-link{display:inline-flex;align-items:center;gap:7px;text-decoration:none;font-weight:700;font-size:14px;padding:7px 10px;border-radius:9px;color:#fff;transition:transform .18s ease,opacity .18s ease}
+.social-link:hover{transform:translateY(-1px);opacity:.9}
+.social-link i{font-size:19px;line-height:1}
+.social-link.whatsapp{background:#25D366}
+.social-link.instagram{background:linear-gradient(135deg,#833AB4,#E1306C,#F77737)}
+.social-link.facebook{background:#1877F2}
+.social-link.google{background:#fff;color:#3c4043;border:1px solid #dadce0}
+.social-link.google i{color:#4285F4}
+.whatsapp-float{font-size:32px}
+.whatsapp-float i{line-height:1}
+@media(max-width:850px){
+ .social-links{justify-content:center}
+}
+@media(max-width:560px){
+ .social-links{display:grid;grid-template-columns:1fr 1fr;width:100%}
+ .social-link{justify-content:space-between}
+}
