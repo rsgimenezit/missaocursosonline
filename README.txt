@@ -1,24 +1,13 @@
-MISSÃO CURSOS ONLINE EAD — SITE
+MISSÃO CURSOS ONLINE EAD — V3 MULTIPÁGINA
 
-Arquivos:
+Páginas:
 - index.html
-- style.css
-- script.js
-- assets/ (logos e imagens)
+- graduacao-pos.html
+- cursos-profissionalizantes.html
+- sobre.html
+- duvidas.html
+- contato.html
 
-Como testar:
-1. Extraia o ZIP.
-2. Abra index.html no navegador.
-3. Para publicar no GitHub Pages, envie todos os arquivos mantendo a mesma estrutura de pastas.
+Inclui menu responsivo, WhatsApp, Instagram, Facebook, Google, mapa, favicon, SEO básico e links oficiais fornecidos pelo cliente.
 
-Dados configurados:
-WhatsApp: (13) 99199-6868
-E-mail: iepeducabr@gmail.com
-Endereço: R. Azuil Loureiro, 1119 - Vila Santa Rosa, Guarujá - SP, 11430-111
-
-Links de matrícula:
-UniFatecie: https://site.unifatecie.edu.br/matricula-ead-polos/
-IEP/CPET: https://www.cpetcursotecnico.com.br/ead/iepgua
-
-Observação:
-Confirme com o cliente a autorização para uso das marcas/logotipos das instituições parceiras.
+Para publicar: envie/substitua TODOS os arquivos e a pasta assets no mesmo repositório GitHub Pages, mantendo index.html na raiz.
